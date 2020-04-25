@@ -1,17 +1,21 @@
 <p align="left">
 	<img width="240" src="https://raw.githubusercontent.com/dsckiet/resources/master/dsckiet-logo.png" />
-	<h2 align="left"> < ADD PROJECT TITLE > </h2>
-	<h4 align="left"> < ADD PROJECT DESCRIPTION > <h4>
+	<h2 align="left">DSC Connect </h2>
+	<h4 align="left"> A platform to connect DSC's from  all over the world to help each other and make world a better place.  <h4>
 </p>
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=for-the-badge&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=for-the-badge&logo=appveyor)](INSERT_UI_LINK_HERE)
+  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=for-the-badge&logo=appveyor)](http://dsc-connect.netlify.com/)
 
 
 ## Functionalities
-- [ ]  < ADD FUNCTIONALITY >
-- [ ]  < ADD FUNCTIONALITY >
+- [ ] User can create account
+- [ ]  View other DSC's
+- [ ]  Add your DSC
+- [ ]  Update your DSC
+- [ ]  Search by name
+- [ ] Filter  by Location and Domains
 
 <br>
 
@@ -19,25 +23,24 @@
 ## Instructions to run
 
 * Pre-requisites:
-	-  < add pre-requisite >
-	-  < add pre-requisite >
+	-  NodeJs
 
 * Directions to setup/install
 ```bash
-< insert code >
+npm install
 ```
 
 * Directions to execute
 
 ```bash
-< insert code >
+npm start
 ```
 
 <br>
 
 ## Contributors
 
-* [ < ADD YOUR NAME > ](ADD_PROFILE_URL_HERE)
+* [ Mayank Shakya ](https://github.com/mayanksh99)
 
 
 
